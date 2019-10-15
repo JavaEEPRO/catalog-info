@@ -1,0 +1,8 @@
+{
+  "name": "catalog",
+  "description": "This is a Info Resource portal (Catalog) himself",
+  "website": "ir.ua",
+  "repository": "https://github.com/JavaEEPRO/catalog",
+  "image": "heroku/gradle",
+  "addons": [ "heroku-postgresql" ]
+}
